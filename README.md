@@ -5,3 +5,4 @@
 
 - Delimiter
 - Delimiter Fallback
+- Pipe Delimiter
