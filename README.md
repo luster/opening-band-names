@@ -7,3 +7,5 @@
 - Delimiter Fallback
 - Pipe Delimiter
 - Latent Spaced
+- Manipulation Cycle
+- Top Bug
