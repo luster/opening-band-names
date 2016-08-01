@@ -9,3 +9,4 @@
 - Latent Spaced
 - Manipulation Cycle
 - Top Bug
+- Burn The Bean
