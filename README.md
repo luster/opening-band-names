@@ -12,3 +12,4 @@
 - Burn The Bean
 - Confusion Tong Derogatory
 - Private Boolean
+- Japan Effect Button
