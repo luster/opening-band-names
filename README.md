@@ -3,7 +3,6 @@
 
 ## Bands
 
-- Delimiter
 - Delimiter Fallback
 - Pipe Delimiter
 - Latent Spaced
@@ -14,3 +13,5 @@
 - Private Boolean
 - Japan Effect Button
 - Pies in the Freight
+- Default Misbehavior
+- Feral Pugs
