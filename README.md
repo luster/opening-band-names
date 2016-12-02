@@ -15,3 +15,4 @@
 - Pies in the Freight
 - Default Misbehavior
 - Feral Pugs
+- Parfait Parley
