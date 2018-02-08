@@ -16,3 +16,4 @@
 - Default Misbehavior
 - Feral Pugs
 - Parfait Parley
+- The Cream Cheese Incident
